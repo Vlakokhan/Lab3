@@ -25,7 +25,7 @@ namespace Lab31
                foreach (string word in bestWords)
                {
                    Console.WriteLine(word);
-               }
+               } 
    
                Console.ReadKey();
            }
