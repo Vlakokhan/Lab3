@@ -19,4 +19,4 @@ namespace Lab_31A
             Console.ReadKey();
         }
     }
-}
+} 
