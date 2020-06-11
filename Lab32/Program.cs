@@ -29,4 +29,4 @@ namespace Lab32
             Console.WriteLine($"Кiлькiсть чисел бiльших за {n}: {count}");
         }
     }
-}
+} 
