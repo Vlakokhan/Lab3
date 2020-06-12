@@ -16,4 +16,4 @@ namespace Lab33
             Console.ReadKey();
         }
     }
-}
+} 
